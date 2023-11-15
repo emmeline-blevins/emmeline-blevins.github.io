@@ -1,0 +1,16 @@
+html { 
+    background: url(images/dithered-bluebonnets.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+@font-face {
+	font-family: black-gumners;
+	src: url(fonts/black-gumners.otf);
+  }
+
+.black-gumners-general{
+	font-family: black-gumners;
+  }
