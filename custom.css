@@ -1,5 +1,5 @@
 html { 
-    background: url(images/dithered-bluebonnets.png) no-repeat center center fixed; 
+    /*background: url(images/dithered-bluebonnets.png) no-repeat center center fixed; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -14,3 +14,12 @@ html {
 .black-gumners-general{
 	font-family: black-gumners;
   }
+
+  @font-face {
+	font-family: clarika;
+	src: url(fonts/clarikagrot-medium.otf);
+  }
+
+.clarika-general{
+    font-family: clarika;
+}
