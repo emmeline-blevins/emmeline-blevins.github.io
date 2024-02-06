@@ -4,6 +4,7 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background:  linear-gradient(90deg, #081050 0%, #072934 15.5%, #093736 31%, #34530c 62%, #3f5f0e 71.5%, #4a6a10 81%, #638212 100%);
   }
 
 @font-face {
@@ -22,4 +23,44 @@ html {
 
 .clarika-general{
     font-family: clarika;
+}
+
+.bg-dark {
+  background-color: #13286b !important;
+}
+
+.my-transparent-bg{
+  background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.dove-white{
+  color: #d7d4cd !important;
+}
+
+.dove-white-bg{
+  background-color: #d7d4cd !important;
+}
+
+.bluebonnet{
+  color: #1e43a8 !important;
+}
+
+.bluebonnet-bg{
+  background-color: #1e43a8 !important;
+}
+
+.bluebonnet-shadow{
+  color: #13286b !important;
+}
+
+.bluebonnet-shadow-bg{
+  background-color: #13286b !important;
+}
+
+.bluebonnet-leaves{
+  color: #638212 !important;
+}
+
+.bluebonnet-leaves-bg{
+  background-color: #638212 !important;
 }
